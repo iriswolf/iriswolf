@@ -1,30 +1,26 @@
 # Evgeniy Abramov
 
-Building [TeleFlow](https://github.com/IWFTech/TeleFlow) - a production-oriented Telegram Bot API framework for .NET.
+I build developer tools and backend frameworks in .NET.
 
-I care about framework architecture, explicit APIs, generated metadata, diagnostics,
-runtime performance, developer experience, and long-term maintainability.
+Currently working on [TeleFlow](https://github.com/IWFTech/TeleFlow), a Telegram Bot API framework for C#:
+generated handler metadata, typed callbacks, state management, long polling, webhooks,
+diagnostics, and NuGet packages.
 
-## Open Source
+I also maintain [TelegramSchemaGenerator](https://github.com/IWFTech/TelegramSchemaGenerator),
+the schema tooling behind TeleFlow's generated Telegram API surface.
 
-| Project | Focus |
-| --- | --- |
-| [TeleFlow](https://github.com/IWFTech/TeleFlow) | Async Telegram Bot API framework for .NET/C# with generated metadata, typed callbacks, state, diagnostics, long polling, and webhooks. |
-| [TelegramSchemaGenerator](https://github.com/IWFTech/TelegramSchemaGenerator) | Telegram Bot API schema generation tooling for keeping generated .NET API surface aligned with Telegram updates. |
-| [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | Open-source contribution to a large reverse engineering framework ([PR #8878](https://github.com/NationalSecurityAgency/ghidra/pull/8878)). |
+Outside my own projects, I have contributed to [Ghidra](https://github.com/NationalSecurityAgency/ghidra).
 
-## Focus Areas
+## What I Work On
 
 - .NET and C#
-- Framework design
-- Source generators and analyzers
+- framework architecture
 - Telegram Bot API
-- Runtime performance and allocations
-- Developer experience
-- CI/CD, releases, and OSS maintenance
+- runtime performance
+- developer experience
 
 ## Links
 
-- [TeleFlow documentation](https://iwftech.github.io/TeleFlow/)
-- [TeleFlow NuGet packages](https://www.nuget.org/profiles/iriswolf)
+- [TeleFlow docs](https://iwftech.github.io/TeleFlow/)
+- [NuGet packages](https://www.nuget.org/profiles/iriswolf)
 - [IWFTech](https://github.com/IWFTech)
