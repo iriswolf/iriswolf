@@ -1,6 +1,6 @@
 # Evgeniy Abramov
 
-I build developer tools and backend frameworks in .NET.
+.NET developer working on Telegram Bot API tooling and framework architecture.
 
 Currently working on [TeleFlow](https://github.com/IWFTech/TeleFlow), a Telegram Bot API framework for C#:
 generated handler metadata, typed callbacks, state management, long polling, webhooks,
@@ -11,7 +11,7 @@ the schema tooling behind TeleFlow's generated Telegram API surface.
 
 Outside my own projects, I have contributed to [Ghidra](https://github.com/NationalSecurityAgency/ghidra).
 
-## What I Work On
+## Current Focus
 
 - .NET and C#
 - framework architecture
